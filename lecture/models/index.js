@@ -9,6 +9,5 @@ const db = {};
 const sequelize = new Sequelize(config.database, config.username, config.password, config);
 
 db.seqelize = sequelize;
-db.Seqelize = Sequelize;
 
 module.exports = db;
