@@ -1,0 +1,16 @@
+{
+  "name": "nodebird",
+  "version": "1.0.0",
+  "description": "익스프레스로 만드는 SNS 서비스",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yewon",
+  "license": "MIT",
+  "dependencies": {
+    "mysql2": "^3.6.3",
+    "sequelize": "^6.35.0",
+    "sequelize-cli": "^6.6.2"
+  }
+}
